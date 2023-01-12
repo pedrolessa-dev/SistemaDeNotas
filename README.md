@@ -6,6 +6,7 @@ O usuário poderá escolher uma das opções apresentadas sendo:
 - Consultar apenas 1 aluno pelo RA;
 - Consultar todos os registros do sistema;
 - Sair do sistema.
+
 As informações apresentadas para o usuário são:
 - Nome;
 - Nota 1; 
